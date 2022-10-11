@@ -20,5 +20,4 @@ http://139.59.71.143/
 - Enter OTP !["Enter OTP Received"](/imgs/5.png)
 - Enjoy !["Success"](/imgs/3.png)
 - OTP in Inbox !["OTP"](/imgs/4.png)
-- Enjoy Regular Comics in Inbox !["Comic"](/imgs/5.png)
-
+- Enjoy Regular Comics in Inbox !["Comic"](/imgs/2.png)
